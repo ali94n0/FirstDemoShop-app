@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  border: none;
+  padding: none;
+  box-sizing: border-box;
+  outline: none;
+}
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  background: rgb(255, 255, 255);
+}
